@@ -99,15 +99,15 @@ usage()
 choice = str(input("\033[35mAttack numarası girin. >"))
 
 if choice == '1':
-		os.system('python3 tools/attack/DaxttackHTTP.py')
+		os.system('python3 DaxttackHTTP.py')
 
 	
 if choice == '2':
-		os.system('python3 tools/attack/DaxttackTCP.py')
+		os.system('python3 DaxttackTCP.py')
 
 
 if choice == '3':
-		os.system('python3 tools/attack/DaxttackUDP.py')
+		os.system('python3 DaxttackUDP.py')
 
 
 
