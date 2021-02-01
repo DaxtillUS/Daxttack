@@ -20,6 +20,7 @@ ve dahası...
 
  
 1. Adım 
+
 ``git clone https://github.com/DaxtillUS/Daxttack ``
 
 2.Adım
