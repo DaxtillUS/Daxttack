@@ -35,26 +35,7 @@ def my_bots():
 	bots=[]
 	bots.append("http://validator.w3.org/check?uri=")
 	bots.append("http://www.facebook.com/sharer/sharer.php?u=")
-	bots.append("http://mobileplanet.ua/?uri=")
-	bots.append("http://api.carsmile.com/?uri=")
-	bots.append("http://www.sportmaster.ua/?uri=")
-	bots.append("http://123.56.103.64/?uri=")
-	bots.append("http://34.253.106.103/?uri=")
-	bots.append("http://oyorooms.com/?uri=")
-	bots.append("http://findclone.ru/?uri=")
-	bots.append("http://citilink.ru/?uri=")
-	bots.append("http://pampik.com/?uri=")
-	bots.append("http://pizzahut.ru/?uri=")
-	bots.append("http://youla.ru/?uri=")
-	bots.append("http://ozon.ru/?uri=")
-	bots.append("http://hackerogz.cf/?uri=")
-	bots.append("http://www.hepsiburada.com/?uri=")
-	bots.append("http://auto.creavite.co/?uri=")
-	bots.append("http://www.nl.ua/?uri=")
-	bots.append("http://www.nicovideo.jp/?uri=")
-	bots.append("http://roblox.com/?uri=")
-	bots.append("http://www.qwiklabs.com/?uri=")
-	bots.append("http://discord.com/?uri=")
+
 	
 	
 
