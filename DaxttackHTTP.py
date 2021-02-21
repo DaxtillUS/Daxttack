@@ -28,7 +28,6 @@ def user_agent():
 	uagent.append("Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 (.NET CLR 3.5.30729)")
 	uagent.append("Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.1) Gecko/20090718 Firefox/3.5.1")
 	uagent.append("Mozilla/4.0 (Mozilla/4.0; MSIE 7.0; Windows NT 5.1; FDM; SV1)")
-	uagent.append("Mozilla/4.0 (Mozilla/4.0; MSIE 7.0; Windows NT 5.1; FDM; SV1)")
 	uagent.append("Mozilla/4.0 (Mozilla/4.0; MSIE 7.0; Windows NT 5.1; FDM; SV1; .NET CLR 3.0.04506.30)")
 	uagent.append("Mozilla/4.0 (Windows; MSIE 7.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)")
 	uagent.append("Mozilla/4.0 (Windows; U; Windows NT 5.0; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/3.0.195.33 Safari/532.0")
@@ -7764,8 +7763,9 @@ def user_agent():
 def my_bots():
 	global bots
 	bots=[]
-    bots.append("http://validator.w3.org/check?uri=")
+  
 	bots.append("http://www.facebook.com/sharer/sharer.php?u=")
+	bots.append("http://www.validator.w3.org/check?uri=")
 	bots.append("http://facebook.com/?uri=")
 	bots.append("http://facebook.com/?uri=")
 	bots.append("https://www.prjcq.com/?uri=")
